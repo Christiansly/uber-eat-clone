@@ -1,4 +1,4 @@
-import { View, Text, StatusBar } from "react-native";
+import { View, Text, StatusBar, ScrollView } from "react-native";
 import Home from "./screens/Home"
 import {useState} from "react"
 const STYLES = ['default', 'dark-content', 'light-content'];
